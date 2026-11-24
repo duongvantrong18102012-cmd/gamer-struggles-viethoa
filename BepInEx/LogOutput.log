@@ -1,0 +1,21 @@
+[Message: Preloader] BepInEx 6.0.0-be.789 - Gamer Struggles (8/2/2026 7:17:02 PM)
+[Message: Preloader] Built from commit 6cea286d204eb3754d3b8363a5a1fd6640164a49
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 6000.0.58f2
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Gamer Struggles Liquid Glass 1.0.0]
+[Info   :Gamer Struggles Liquid Glass] Harmony patches applied.
+[Warning:Il2CppInterop] Method Void SliderRow(Single, System.String, System.String, Single ByRef, Single, Single, System.Func`2[System.Single,System.String], UnityEngine.Color) on type GamerStrugglesLiquidGlass.ModMenu has unsupported parameter System.Func`2[System.Single,System.String] format of type System.Func`2[System.Single,System.String]
+[Warning:Il2CppInterop] Method Void ButtonRow(Single, System.String[], UnityEngine.GUIStyle[], System.Action[]) on type GamerStrugglesLiquidGlass.ModMenu has unsupported parameter System.String[] labels of type System.String[]
+[Info   :Il2CppInterop] Registered mono type GamerStrugglesLiquidGlass.ModMenu in il2cpp domain
+[Info   :Gamer Struggles Liquid Glass] Gamer Struggles Liquid Glass v1.0.0 loaded.
+[Message:   BepInEx] Chainloader startup complete

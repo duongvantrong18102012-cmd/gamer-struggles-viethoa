@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1n4GtGGtyU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duong\\Documents\\Game\\GS 0.2.4.1(Windows DEMO)\\_mod\\GamerStrugglesLiquidGlass\\GamerStrugglesLiquidGlass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
